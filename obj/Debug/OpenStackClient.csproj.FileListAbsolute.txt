@@ -1,0 +1,16 @@
+C:\projects\NUGET\OpenStackClient\bin\Debug\OpenStackClient.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\OpenStackClient.pdb
+C:\projects\NUGET\OpenStackClient\bin\Debug\Microsoft.CSharp.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\Newtonsoft.Json.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Data.DataSetExtensions.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Data.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Net.Http.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Xml.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Xml.Linq.dll
+C:\projects\NUGET\OpenStackClient\bin\Debug\Newtonsoft.Json.xml
+C:\projects\NUGET\OpenStackClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\NUGET\OpenStackClient\obj\Debug\OpenStackClient.csprojResolveAssemblyReference.cache
+C:\projects\NUGET\OpenStackClient\obj\Debug\OpenStackClient.dll
+C:\projects\NUGET\OpenStackClient\obj\Debug\OpenStackClient.pdb
